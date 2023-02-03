@@ -7,7 +7,7 @@ module.exports = {
       hind: ['Hind', 'system-ui'],
     },
     backgroundImage: {
-      hero: "url('https://res.cloudinary.com/dk7ghcqgs/image/upload/v1675443601/shoes-hero_mqk9vg.png')",
+      hero: "url('https://res.cloudinary.com/dk7ghcqgs/image/upload/c_scale,q_81,w_700/v1675443601/shoes-hero_mqk9vg.png')",
     },
   },
   plugins: [],
